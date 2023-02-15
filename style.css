@@ -598,7 +598,8 @@
     }
    .newslatter form{
     width: 350px;
-    position: relative;
+    position: absolute;
+    align-items: first baseline;
     top: 300px;
     left: 0;
    }
